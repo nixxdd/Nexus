@@ -180,3 +180,6 @@ The final agent layer is not fully implemented in this demo. The intended flow i
 - The polished NEXUS demo is `nexus.html`.
 - The Vite/React scaffold in `src/` is not required to run the NEXUS pitch demo.
 - The recommended pitch mode is precomputed real data via `export_demo.py`, because it avoids live network delays and Semantic Scholar rate limits.
+
+## Small Presentation
+https://nexusprojectbs081.netlify.app/#1
