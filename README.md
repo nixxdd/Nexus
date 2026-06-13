@@ -8,13 +8,13 @@ The current demo focuses on the research pipeline up to the **user profile vecto
 
 ## Demo
 
-The main demo is the standalone visual experience:
+The main demo is in:
 
 ```text
 nexus.html
 ```
 
-Open `nexus.html` in a browser. It loads:
+Open `nexus.html` in a browser (to open it clone the repository on your local machine). It loads:
 
 - `three.min.js` for the 3D globe
 - `nexus_real.js` for real precomputed Semantic Scholar data
