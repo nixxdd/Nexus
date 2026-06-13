@@ -1,0 +1,21 @@
+{
+  "name": "pathos",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Pathos — paziente simulato vocale per allenare le conversazioni difficili (SPIKES).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:scorer": "node --env-file-if-exists=.env test/runScorer.js"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}

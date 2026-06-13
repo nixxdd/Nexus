@@ -1,0 +1,6 @@
+# segreti — non committare mai
+.env
+# output generati
+out/
+__pycache__/
+*.pyc

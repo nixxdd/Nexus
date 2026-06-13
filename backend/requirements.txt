@@ -1,0 +1,6 @@
+# NEXUS backend — il core NON ha dipendenze esterne: gira solo con la libreria
+# standard di Python 3 (urllib, json, math, http.server). Nessun "pip install".
+#
+# Se in futuro vorrai un server piu' robusto puoi (facoltativo) usare FastAPI:
+#   pip install fastapi uvicorn
+# ma server.py funziona gia' senza nulla.
